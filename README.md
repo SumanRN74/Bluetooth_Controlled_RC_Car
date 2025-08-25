@@ -126,11 +126,12 @@ You can use apps like **Bluetooth RC Controller** or **Arduino Bluetooth Control
 ---
 
 ## ⚠️ Precautions
-1.Do not power HC-05 with more than 5V
-2.Ensure GND is common between Arduino, Motor Driver, and Bluetooth
-3.Use a proper battery holder to avoid loose connections
-4.Motors may draw high current → avoid using Arduino 5V to power motors directly
-5.If motors don’t spin, check L298N jumper settings and wiring
+1. Do not power HC-05 with more than **5V**  
+2. Ensure **GND is common** between Arduino, Motor Driver, and Bluetooth  
+3. Use a **proper battery holder** to avoid loose connections  
+4. Motors may draw high current → **avoid using Arduino 5V** to power motors directly  
+5. If motors don’t spin, check **L298N jumper settings and wiring**
+
 
 
 ## 👨‍💻 Author

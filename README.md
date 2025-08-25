@@ -102,7 +102,8 @@ The car can be controlled from any Android/iOS Bluetooth controller app by sendi
 | `J` | Backward Right |
 | `S` | Stop |
 
-You can use apps like **Bluetooth RC Controller** or **Arduino Bluetooth Controller** (available on Play Store).
+You can use app like **Bluetooth RC Controller**
+**link for downloading app :** https://bluetooth-rc-car.en.softonic.com/android
 
 ---
 

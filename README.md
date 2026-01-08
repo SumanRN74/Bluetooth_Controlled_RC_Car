@@ -137,8 +137,8 @@ You can use app like **Bluetooth RC Controller**,
 
 ## 👨‍💻 Author
 **Suman R N**  
-📧 Contact: sumansurn@gmail.com  
-
+📧 Contact: sumansurn@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/suman-r-1b5260335 
 
 
 
